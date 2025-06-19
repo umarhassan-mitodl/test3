@@ -1,0 +1,29 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test3"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test3"
+  },
+  "course_title": "test3",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "test3",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3",
+  "learning_resource_types": [],
+  "site_uid": "c7938581-7334-4046-9074-8480c44aac02",
+  "site_short_id": "test3"
+}
